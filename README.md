@@ -17,13 +17,6 @@
 ## Description
 This challenge is to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 The application’s front end has already been created. It's your job to build the back end, connect the two, and then deploy the entire application to Heroku..
-
-## Table of Contents
-- [Description](#description)
-- [Table of Contents](#table-of-contents)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Questions](#questions)
    
 ## Credits & Contributions
 H. Mark Estrada
@@ -41,6 +34,9 @@ This application is covered by the MIT license.
 ![badge](https://img.shields.io/badge/-json-blue)
 ![badge](https://img.shields.io/badge/-html5-blue)
 ![badge](https://img.shields.io/badge/-css-blue)
+  
+## Screen Shot
+![NOTE-TAKER - ESTRADA](https://github.com/hmarkestrad/Note-Taker-Estrada/blob/5622147e438693fb95ad05cc05fdb08402a7cb16/assets/images/11-express-homework-demo-01.png)
   
 ## Installation
 Run the following command at the root of your project: npm init | npm install inquirer<br>
