@@ -15,7 +15,6 @@
 - [Contributions](#contributions)
 - [License](#license)
 - [Installation](#installation)
-- [Testing](#testing)
 - [Questions](#questions)
   
 ## Description
@@ -47,11 +46,14 @@ This application is covered by the MIT license.
 ![badge](https://img.shields.io/badge/-css-blue)
   
 ## Installation
-After cloning the GitHub Repository run the following commands at the root of your project:<br>  
-`npm install node` `npm install` `npm install inquirer` `npm install jest` <br>  
-  
-## Testing
-To run Jest for tests on constructors: `npm test`  
+Clone the gitHub repository</br>
+Open Git Bash or the Terminal</br>
+Navigate to the directory where you would like to clone the repository to</br>
+Type the command "git clone" and paste the link to the repository</br>
+Open your code editor and open the repository</br>
+Open the terminal window in your code editor</br>
+Make sure you are in the correct folder in the terminal window</br>
+Type the command "npm install" in the terminal and press enter to install the dependency packages that are required.</br>
   
 ## Questions
 GitHub: [hmarkestrad](https://github.com/hmarkestrad)<br>
