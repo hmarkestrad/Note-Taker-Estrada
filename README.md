@@ -21,12 +21,14 @@
 This project is an application that allows users to write, save, and delete notes. The application uses express.js for its back end functionality. The application saves and retrieves note data from a JSON file. This application has been deployed to Heroku.  
   
 ## Usage
-After installation, use Inquier from command line to answer a series of questions to generate a Team Profile (index.html). The generated file will be located: /dist/index.html).  
+After installation, use command line to launch the Note Taker Application.  
   
-To start Inquier: `node index.js`
-  
+To start: `node server.js`
+
+This Note Taker App has been deployed on Heroku: https://note-taker-estrada.herokuapp.com  
+    
 ## Screenshot:  
-![Team-Profile-Generator](assets/image/samplepage.png)  
+![Team-Profile-Generator](/public/assets/images/ScreenshotEstrada.png)  
   
 ## Contributions
 H. Mark Estrada
@@ -39,21 +41,20 @@ This application is covered by the MIT license.
 ![badge](https://img.shields.io/badge/Javascript-blue)
 ![badge](https://img.shields.io/badge/jQuery-blue)
 ![badge](https://img.shields.io/badge/-node.js-blue)
-![badge](https://img.shields.io/badge/-inquirer-blue)</br>
-![badge](https://img.shields.io/badge/-screencastify-blue)
+![badge](https://img.shields.io/badge/-inquirer-blue)
 ![badge](https://img.shields.io/badge/-json-blue)
 ![badge](https://img.shields.io/badge/-html5-blue)
 ![badge](https://img.shields.io/badge/-css-blue)
   
 ## Installation
-Clone the gitHub repository</br>
-Open Git Bash or the Terminal</br>
-Navigate to the directory where you would like to clone the repository to</br>
-Type the command "git clone" and paste the link to the repository</br>
-Open your code editor and open the repository</br>
-Open the terminal window in your code editor</br>
-Make sure you are in the correct folder in the terminal window</br>
-Type the command "npm install" in the terminal and press enter to install the dependency packages that are required.</br>
+1. Clone the gitHub repository</br>
+2. Open Git Bash or the Terminal</br>
+3. Navigate to the directory where you would like to clone the repository to</br>
+4. Type the command "git clone" and paste the link to the repository</br>
+5. Open your code editor and open the repository</br>
+6. Open the terminal window in your code editor</br>
+7. Make sure you are in the correct folder in the terminal window</br>
+8. Type the command "npm install" in the terminal and press enter to install the dependency packages that are required.</br>
   
 ## Questions
 GitHub: [hmarkestrad](https://github.com/hmarkestrad)<br>
