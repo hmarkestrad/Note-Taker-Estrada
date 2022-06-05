@@ -1,10 +1,10 @@
-<h1 align="center">Object-Oriented Programming Team Profile Generator</h1>
+<h1 align="center">Express.js Note Taker Estrada</h1>
 
 <p align="center">
-<img src="https://img.shields.io/github/repo-size/hmarkestrad/Team-Profile-Generator" />
-<img src="https://img.shields.io/github/languages/top/hmarkestrad/Team-Profile-Generator"  />
-<img src="https://img.shields.io/github/issues/hmarkestrad/Team-Profile-Generator" />
-<img src="https://img.shields.io/github/last-commit/hmarkestrad/Team-Profile-Generator" >
+<img src="https://img.shields.io/github/repo-size/hmarkestrad/Note-Taker-Estrada"/>
+<img src="https://img.shields.io/github/languages/top/hmarkestrad/Note-Taker-Estrada"/>
+<img src="https://img.shields.io/github/issues/hmarkestrad/Note-Taker-Estrada"/>
+<img src="https://img.shields.io/github/last-commit/hmarkestrad/Note-Taker-Estrada"/>
 </p>
   
 ## Table of Contents
@@ -19,10 +19,8 @@
 - [Questions](#questions)
   
 ## Description
-I have developed a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person. Because testing is key to making code maintainable, I wrote unit tests for each part of my code and ensured that it passed all of them.  
+This project is an application that allows users to write, save, and delete notes. The application uses express.js for its back end functionality. The application saves and retrieves note data from a JSON file. This application has been deployed to Heroku.  
   
-Because this application won’t be deployed, I’ll also need to provide a link to a walkthrough video that demonstrates its functionality and all of the tests passing. You’ll need to submit a link to the video and add it to the README of your project.
-
 ## Usage
 After installation, use Inquier from command line to answer a series of questions to generate a Team Profile (index.html). The generated file will be located: /dist/index.html).  
   
